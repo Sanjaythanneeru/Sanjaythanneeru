@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjaythanneeru
-- 👀 I’m interested in Cloud computing, Full stack development
-- 🌱 I’m currently learning DSA, Frontend development, Backend development, DevOps
+- 👀 I’m interested in Cloud computing, DevOps
+- 🌱 I’m currently DevOps, Networking, Automation
 
 
 <!---
