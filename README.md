@@ -9,12 +9,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanjaythanneeru](https://github.com/Sanjaythanneeru)
 
+- 📫 How to reach me: <a href="mailto:sanjaythanneeu7@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="sanjay-thanneeru" height="30" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanjay-thanneeru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-thanneeru" height="30" width="40" /></a>
 <a href="https://instagram.com/sanjayy_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjayy_21" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanjaythanneeru7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjaythanneeru7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanjay_thanneeru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjay_thanneeru" height="30" width="40" /></a>
+<a> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
