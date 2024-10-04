@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanjaythanneeru](https://github.com/Sanjaythanneeru)
 
-- 📫 How to reach me: <a href="mailto:sanjaythanneeu7@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="sanjay-thanneeru" height="30" width="40" /></a>
+- 📫 How to reach me: <a href="mailto:sanjaythanneeru7@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="sanjay-thanneeru" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
