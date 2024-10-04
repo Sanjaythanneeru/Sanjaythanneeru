@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sanjay Thanneeru <img align="center" src="https://github.com/Sanjaythanneeru/Sanjaythanneeru/blob/main/hi.gif" alt="sanjay-thanneeru" height="50" width="50" /> </h1>
+<h1 align="center">Hey, I'm Sanjay Thanneeru <img align="center" src="https://github.com/Sanjaythanneeru/Sanjaythanneeru/blob/main/hi.gif" alt="hi-gif" height="50" width="50" /> </h1>
 <div align="center"> <img src="https://github.com/Sanjaythanneeru/Sanjaythanneeru/blob/main/github.PNG"> </div>
 <h3 align="center">A passionate DevOps Engineer from India | I'm currently working as a Cloud Engineer at HCLTech</h3>
 
