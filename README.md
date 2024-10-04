@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Sanjay Thanneeru <img align="center" src="https://github.com/Sanjaythanneeru/Sanjaythanneeru/blob/main/hi.gif" alt="hi-gif" height="50" width="50" /> </h1>
 <div align="center"> <img src="https://github.com/Sanjaythanneeru/Sanjaythanneeru/blob/main/github.PNG"> </div>
 <h3 align="center">A passionate DevOps Engineer from India | I'm currently working as a Cloud Engineer at HCLTech</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/Sanjaythanneeru/Sanjaythanneeru/blob/main/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaythanneeru&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaythanneeru" /> </p>
 
